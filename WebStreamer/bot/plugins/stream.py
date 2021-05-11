@@ -25,7 +25,7 @@ async def private_receive_handler(c: Client, m: Message):
             if user.status == "kicked":
                 await c.send_message(
                     chat_id=m.chat.id,
-                    text="Sorry Sir, You are Banned to use me. Contact my [👥 Support Group](https://t.me/UvinduBr).",
+                    text="Sorry Sir, You are Banned to use me. Contact my [👥 Support Group](https://t.me/HARP_Chat).",
                     parse_mode="markdown",
                     disable_web_page_preview=True
                 )
@@ -47,7 +47,7 @@ async def private_receive_handler(c: Client, m: Message):
         except Exception:
             await c.send_message(
                 chat_id=m.chat.id,
-                text="Something went Wrong. Contact my [👥 Support Group](https://t.me/UvinduBr).",
+                text="Something went Wrong. Contact my [👥 Support Group](https://t.me/HARP_Chat).",
                 parse_mode="markdown",
                 disable_web_page_preview=True)
             return
@@ -103,7 +103,7 @@ async def channel_receive_handler(bot, broadcast):
             message_id=broadcast.message_id,
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("Get Direct Download Link", url=f"https://t.me/UBFiletoLinkBot?start=UvinduBro__{str(log_msg.message_id)}")]
+                    [InlineKeyboardButton("Get Direct Download Link", url=f"https://t.me/HARP_LinkGenBot?start=HARP_Tech__{str(log_msg.message_id)}")]
                 ]
             )
         )

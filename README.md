@@ -73,4 +73,4 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Demo Bot
 
--  [HARP LinkGen Bot](https://t.me/HARP_Tech)
+-  [HARP LinkGen Bot](https://t.me/HARP_LinkGenBot)
