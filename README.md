@@ -8,7 +8,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 ### Deploy to Heroku 🏃‍♂
 
 The easiest way to deploy this Song Bot  <br><br>
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UvinduBro/File-Stream-Bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OfficialBawwa/TG_linkGenBot)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
@@ -65,10 +65,12 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits:
 
-- [Uvindu Bro Co](https://github.com/UvinduBroCo)
+- Original Coders
 
-### Developers:
+### Developed By:
 
--  [@UvinduBro](https://t.me/Uvindu_Bro)
+-  [OfficialBawwa](https://t.me/OfficialBawwa)
 
+### Demo Bot
 
+-  [HARP LinkGen Bot](https://t.me/HARP_Tech)
